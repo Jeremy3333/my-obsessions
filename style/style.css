@@ -7,6 +7,7 @@
 html, body{
     height: 100%;
     width: 100%;
+    background-color: #CCC;
 }
 
 body{
@@ -20,6 +21,12 @@ header{
     background-color: #555;
     border: black 1px solid;
     border-radius: 10px;
+}
+
+header > img {
+    height: 90%;
+    margin-bottom: auto;
+    margin-left: .5%;
 }
 
 .container{

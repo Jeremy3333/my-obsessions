@@ -6,6 +6,7 @@
 </head>
 <body>
     <header>
+        <img src="media/logo.png">
     </header>
     <div class="container">
         <nav></nav>
