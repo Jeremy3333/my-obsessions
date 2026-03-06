@@ -13,7 +13,7 @@ function handleRequest(string $uri): array {
     } else {
         return [
             'code' => 404,
-            'file' => null // ou un fichier 404 personnalisé
+            'file' => null
         ];
     }
 }

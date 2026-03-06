@@ -4,6 +4,6 @@
     },
     "scripts": {
         "test": "phpunit tests",
-        "debug": "php -S localhost:8000"
+        "debug": "php -S localhost:8000 index.php"
     }
 }
